@@ -110,7 +110,7 @@ function App() {
                     : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
                 }`}
               >
-                🎴 Cards
+                 Cards
               </button>
               <button
                 onClick={() => setViewMode('table')}
@@ -120,7 +120,7 @@ function App() {
                     : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
                 }`}
               >
-                📊 Table
+                 Table
               </button>
             </div>
           </div>
