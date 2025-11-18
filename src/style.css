@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Optional tiny base tweaks */
+*, *::before, *::after { box-sizing: border-box; }
+html, body, #app { height: 100%; }
+

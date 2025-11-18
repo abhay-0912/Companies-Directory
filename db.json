@@ -1,0 +1,184 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "TechCorp Solutions",
+      "industry": "Technology",
+      "location": "San Francisco, CA",
+      "employees": 250,
+      "founded": 2015,
+      "description": "Leading provider of cloud-based solutions"
+    },
+    {
+      "id": 2,
+      "name": "FinanceHub Inc",
+      "industry": "Finance",
+      "location": "New York, NY",
+      "employees": 500,
+      "founded": 2010,
+      "description": "Financial services and investment management"
+    },
+    {
+      "id": 3,
+      "name": "HealthFirst Medical",
+      "industry": "Healthcare",
+      "location": "Boston, MA",
+      "employees": 350,
+      "founded": 2012,
+      "description": "Healthcare technology and medical services"
+    },
+    {
+      "id": 4,
+      "name": "EduLearn Platform",
+      "industry": "Education",
+      "location": "Austin, TX",
+      "employees": 180,
+      "founded": 2018,
+      "description": "Online learning and educational technology"
+    },
+    {
+      "id": 5,
+      "name": "RetailMax Group",
+      "industry": "Retail",
+      "location": "Chicago, IL",
+      "employees": 800,
+      "founded": 2008,
+      "description": "E-commerce and retail solutions"
+    },
+    {
+      "id": 6,
+      "name": "GreenEnergy Systems",
+      "industry": "Energy",
+      "location": "Seattle, WA",
+      "employees": 420,
+      "founded": 2016,
+      "description": "Renewable energy and sustainability solutions"
+    },
+    {
+      "id": 7,
+      "name": "MediaStream Networks",
+      "industry": "Media",
+      "location": "Los Angeles, CA",
+      "employees": 300,
+      "founded": 2014,
+      "description": "Digital media and streaming services"
+    },
+    {
+      "id": 8,
+      "name": "AutoDrive Technologies",
+      "industry": "Automotive",
+      "location": "Detroit, MI",
+      "employees": 650,
+      "founded": 2011,
+      "description": "Autonomous vehicle technology and software"
+    },
+    {
+      "id": 9,
+      "name": "FoodDelight Services",
+      "industry": "Food & Beverage",
+      "location": "Miami, FL",
+      "employees": 220,
+      "founded": 2017,
+      "description": "Food delivery and restaurant management"
+    },
+    {
+      "id": 10,
+      "name": "TravelWise Agency",
+      "industry": "Travel",
+      "location": "Denver, CO",
+      "employees": 150,
+      "founded": 2019,
+      "description": "Travel booking and tourism services"
+    },
+    {
+      "id": 11,
+      "name": "CloudSphere Data",
+      "industry": "Technology",
+      "location": "Seattle, WA",
+      "employees": 380,
+      "founded": 2013,
+      "description": "Cloud infrastructure and data management"
+    },
+    {
+      "id": 12,
+      "name": "SecureBank Corp",
+      "industry": "Finance",
+      "location": "New York, NY",
+      "employees": 900,
+      "founded": 2005,
+      "description": "Digital banking and payment solutions"
+    },
+    {
+      "id": 13,
+      "name": "WellnessCare Group",
+      "industry": "Healthcare",
+      "location": "Phoenix, AZ",
+      "employees": 280,
+      "founded": 2015,
+      "description": "Wellness programs and healthcare management"
+    },
+    {
+      "id": 14,
+      "name": "SmartHome Solutions",
+      "industry": "Technology",
+      "location": "San Jose, CA",
+      "employees": 195,
+      "founded": 2020,
+      "description": "IoT and smart home automation"
+    },
+    {
+      "id": 15,
+      "name": "FashionForward Retail",
+      "industry": "Retail",
+      "location": "New York, NY",
+      "employees": 450,
+      "founded": 2009,
+      "description": "Fashion e-commerce and retail"
+    },
+    {
+      "id": 16,
+      "name": "SolarPower Innovations",
+      "industry": "Energy",
+      "location": "San Diego, CA",
+      "employees": 310,
+      "founded": 2014,
+      "description": "Solar energy solutions and installations"
+    },
+    {
+      "id": 17,
+      "name": "GameStudio Pro",
+      "industry": "Media",
+      "location": "Austin, TX",
+      "employees": 175,
+      "founded": 2016,
+      "description": "Video game development and publishing"
+    },
+    {
+      "id": 18,
+      "name": "LogisticsFlow Inc",
+      "industry": "Logistics",
+      "location": "Atlanta, GA",
+      "employees": 550,
+      "founded": 2010,
+      "description": "Supply chain and logistics management"
+    },
+    {
+      "id": 19,
+      "name": "BioPharma Research",
+      "industry": "Healthcare",
+      "location": "San Francisco, CA",
+      "employees": 420,
+      "founded": 2011,
+      "description": "Pharmaceutical research and development"
+    },
+    {
+      "id": 20,
+      "name": "DataAnalytics Pro",
+      "industry": "Technology",
+      "location": "Boston, MA",
+      "employees": 260,
+      "founded": 2017,
+      "description": "Big data analytics and business intelligence"
+    }
+  ]
+}
